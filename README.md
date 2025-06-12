@@ -1,28 +1,28 @@
-# AGRINHO: Aliança das ruas e dos campos
+# AGRINHO: Aliança das ruas e dos campos!
 
-Um jogo RPG que demonstra a interdependência entre o campo e a cidade.
+Um jogo RPG que foca na interação dos campos e das cidades de maneira mais criativa.
 
 ## Objetivo
-Mostrar como os produtos agrícolas sustentam a cidade e como a tecnologia urbana melhora a vida no campo.
+Mostrar como o Campo ajuda a cidade com a produção de Produtos, ao mesmo tempo que mostra como a Cidade pode fornecer tecnologia aos campos.
 
 ## Mecânicas do Jogo
-- **Agricultura**: Plante e colha alimentos no campo
-- **Comércio**: Venda produtos na cidade e compre tecnologia
-- **Recursos**: Colete madeira, minerais e outros materiais
-- **NPCs**: Interaja com personagens que dão missões e dicas
-- **Progresso**: Melhore sua fazenda com tecnologia urbana
+- **NPCs**: Ao falar com os NPCs você recebe as Quest para enfrentar os Boss, a qual é essencial para pogredir no jogo.
+- **ESTRUTURAS**: O Jogador pode vender seus recursos adquiridos no Campo, ou até mesmo comprar Cosmesticos.
+- **BOSS**: Os Boss (Corvo, Touro, Arvore) são os grandes chefes do Campo, a qual precisa ser derrotado para que possa liberar recursos para que o player consiga vendelos na cidade! Cada Boss possui mecanicas unicas dando ainda mais desafios dentro do jogo.
+- **Moedas e Medalhas!**: As Moedas são ganhadas durante a vende de produtos do Campo para a cidade, já as Medalahas são ganhada quando derrota cada um dos Boss.
+- **Mercado**: Aqui voce compra cosmeticos como Mais Vida ou Dano!
 
 ## Como Jogar
 - **WASD**: Movimentação
-- **E**: Interagir com objetos/NPCs
-- **I**: Abrir inventário
-- **ESC**: Sair das lojas
+- **E**: Interagir com Estruturas/NPCs
+- **Q**: Abrir inventário
+- **ESPAÇO**: Disparar Projétil
 
 ## Critérios Atendidos
-- **Complexidade**: Sistema completo de RPG com inventário, NPCs, lojas e progressão
-- **Interatividade**: Responde a múltiplos inputs do usuário
-- **Criatividade**: Tema bem desenvolvido com mecânicas originais
-- **Organização**: Código modularizado e bem comentado
+- **Complexidade**: Sistema completo tendo: (Sistema de combate, Inventario, sistema de vendas e compras, tela de Menu, movimentos constantes.)
+- **Interatividade**: Responde a múltiplos inputs do usuário! (Npc e estruturas!)
+- **Criatividade**: Tema mantem a tematica de interação entre campo e cidade junto aos seus produtos e vendas, e ainda acressenta sistema de combate contra os Boss!
+- **Organização**: Constantes comentarios em cada função do Codigo.
 
 ## Tecnologias
 - p5.js
